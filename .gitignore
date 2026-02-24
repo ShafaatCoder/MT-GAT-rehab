@@ -1,0 +1,19 @@
+# trained models
+best model ex4/
+pretrain model/
+*.hdf5
+*.h5
+
+# experiments & outputs
+experiments/
+baseline/
+
+# datasets
+Data/
+
+# figures / generated results
+Figure/
+
+# python cache
+__pycache__/
+*.pyc
